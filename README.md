@@ -1,2 +1,2 @@
 # Intro-to-IM
-**Aadhar** *Wasti*
+**Aadhar** \n *Wasti*
