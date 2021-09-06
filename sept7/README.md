@@ -4,4 +4,4 @@ There were a some difficulties while doing the code, that I've listed below
 - I wanted to have abstract shapes in my portrait, which I couldn't achieve - shapes with curves that aren't arcs. In short, the portrait couldn't be like free-form hand drawn art.
 - It took time and multiple trial and errors to locate where I wanted to put each shape.
 
-![](media/selfPortrait.png)
+![](selfPortrait.png)
