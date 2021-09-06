@@ -1,3 +1,4 @@
+
 ![](sept7/selfPortrait.png)
 
 There were a some difficulties while doing the code, that I've listed below
