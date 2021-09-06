@@ -1,5 +1,5 @@
 
-![](sept7/selfPortrait.png)
+![](media/selfPortrait.png)
 
 There were a some difficulties while doing the code, that I've listed below
 
