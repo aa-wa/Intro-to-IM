@@ -1,4 +1,4 @@
-# A Movinng System
+# A Moving System
 
 ## Concept:
 
@@ -6,7 +6,7 @@ So the idea behind this project was to create a moving system that would gradual
 
 ## Application:
 
-I created a two classes, one for a falling block and one for a block moving horizontally. I gave velocities and energies to the blocks and made sure that after each collision on the walls, the energy decreased. The energy given and the velocity can be changed as they're global constant variables declared at the top. I made a loop to draw not just a single block, but a row of blocks that are falling and a column of blocks that are moving (This was optional for my experiment, I just felt like that would create some interesting patterns on the screen.)
+I created two classes, one for a falling block and one for a block moving horizontally. I gave velocities and energies to the blocks and made sure that after each collision on the walls, the energy decreased. The energy given and the velocity can be changed as they're global constant variables declared at the top. I made a loop to draw not just a single block, but a row of blocks that are falling and a column of blocks that are moving (This was optional for my experiment, I just felt like that would create some interesting patterns on the screen.)
 
 ## Result, Surprise and Discovery
 
