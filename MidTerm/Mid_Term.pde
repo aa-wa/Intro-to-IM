@@ -167,7 +167,7 @@ void draw() {
   if (game == 0) {
     fill(255);
     textSize(width/20);
-    text("Press ENTER to Start", width/2-width/4, height/2);
+    text("Press ENTER to Start\n Click to Fill in Tic-Tac or Toe", width/2-width/4, height/2);
   }
 
   //game start
