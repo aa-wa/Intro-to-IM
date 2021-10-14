@@ -1,4 +1,4 @@
-// This is the classic tic-tac-toe with a tileWist (tic-tacs for circles and toes for crosses)
+// This is the classic tic-tac-toe with a twist (tic-tacs for circles and toes for crosses)
 import processing.sound.*;
 
 PImage ticTac;
