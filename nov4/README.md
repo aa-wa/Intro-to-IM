@@ -11,3 +11,5 @@ I took a simple circuit consisting of an LED, a 330 Ohm resistor and some wires.
 ## Issues
 
 No issues arised during the project. 
+
+![](nov4.mp4)
