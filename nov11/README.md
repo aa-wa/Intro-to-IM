@@ -17,3 +17,12 @@ I was having a hard time finding an idea for the project. However, during our cl
 At first, assembling the circuit was a hassle but it finally came together somehow and the result was as I had expected.
 
 Other than that, the project went smoothly without much issues.
+
+![](schematic.jpg)
+
+![](picture1.jpg)
+
+![](picture2.jpg)
+
+Link to the video of the project:
+https://drive.google.com/file/d/1XmIHoZlvl_8vdnFzWJdNiIQbcLWV2uE3/view?usp=sharing
