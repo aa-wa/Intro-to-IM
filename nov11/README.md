@@ -25,4 +25,4 @@ Other than that, the project went smoothly without much issues.
 ![](picture2.jpg)
 
 Link to the video of the project:
-https://drive.google.com/file/d/1YiFQOJM8dFqVeWIGMtZD7-VqCFKNn068/view?usp=sharing
+https://drive.google.com/file/d/1XmIHoZlvl_8vdnFzWJdNiIQbcLWV2uE3/view?usp=sharing
