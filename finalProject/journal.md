@@ -29,3 +29,7 @@ In my project, the potentiometer was meant to select the box in which the player
 ### Getting the Switch effect
 
 The switch puts the desired symbol into the box over which the selector box is hovering. I made it so that whenever the computer read 'HIGH' from the button pin of the Arduino, the game put a 'Tic-Tac' or a 'Toe' in the box over which the selector is hovering.
+
+### Link to the Test 
+
+https://drive.google.com/drive/folders/1YndsPrWcwF0Oq18grMoxbd-DeOwDQfEG?usp=sharing
