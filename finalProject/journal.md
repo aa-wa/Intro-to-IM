@@ -2,7 +2,7 @@
 
 ## Concept
 
-My final project will be the modified version of me Mid-Term Project. I want to continue with my Tic-Tac-Toe. However, I want to make it so that the game is controlled through Arduino. 
+My final project will be the modified version of my Mid-Term Project. I want to continue with my Tic-Tac-Toe. However, I want to make it so that the game is controlled through Arduino. 
 
 ## Using Arduino
 
@@ -28,7 +28,7 @@ In my project, the potentiometer was meant to select the box in which the player
 
 ### Getting the Switch effect
 
-The switch puts the desired symbol into the box over which the selector box is hovering. I made it so that whenever the computer read 'HIGH' from the button pin of the Arduino, the game put a 'Tic-Tac' or a 'Toe' in the box over which the selector is hovering.
+The switch puts the desired symbol into the box over which the selector box is hovering. I made it so that whenever the computer reads 'HIGH' from the button pin of the Arduino, the game put a 'Tic-Tac' or a 'Toe' in the box over which the selector is hovering.
 
 ### Link to the Test 
 
