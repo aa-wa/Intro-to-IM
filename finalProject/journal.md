@@ -20,7 +20,7 @@ The major problem I see is the way the potentiometer will work. Because there ar
 
 ### Status
 
-Creating the game itself was not a issue as I had done it for my Mid-Term previously. I burrowed coe from my own past Processing file to build the game. The project is more or less complete as I've dealt with the isssue that was seemed to be the most difficult at first for me as well - I've implemented the potentiometer and the switch into the game. Although the screen, the buzzer and the LEDs remain, I've watched enough videos and references and done ecnough work in class with them to make them work promptly. 
+Creating the game itself was not a issue as I had done it for my Mid-Term previously. I borrowed code from my own past Processing file to build the game. The project is more or less complete as I've dealt with the isssue thatseemed to be the most difficult at first for me - I've implemented the potentiometer and the switch into the game. Although the screen, the buzzer and the LEDs remain, I've watched enough videos and references and done ecnough work in class with them to make them work promptly. 
 
 ### The Potentiometer Issue
 
@@ -33,3 +33,27 @@ The switch puts the desired symbol into the box over which the selector box is h
 ### Link to the Test 
 
 https://drive.google.com/drive/folders/1YndsPrWcwF0Oq18grMoxbd-DeOwDQfEG?usp=sharing
+
+## Progress Report II
+
+### Status
+
+Another issue arose as I couldn't quite put the LEDs inside the game as I wanted them to. Additionally, I couldn't implement the LCD screen into the game.
+
+### The LED issue
+
+When someone won or the game ended as a draw, either a green (win) or a red (draw) LED was meant to fade in and out continuously. And pressing enter would restart the game, making the fading lights go off. However, the lights kept fading in and out even after pressing enter and restarting the game. I realized that the delay function was what was causing the issue and so I used the millis function instead. I had to change a bit of the code and get rid of all the delays in the code but it worked just fine afterwards.
+
+### The LCD screen issue
+
+The LCD screen used up a lot of my breadboard when I'd first tried it, and later it made it so that I couldn't include the LEDs or the buzzer. So, I got rid of it altogether.
+
+## Progress Report III
+
+### Status
+
+The project is done as I just coded the buzzer to make a happy sound when someone won, and a sad sound when the game ends as a draw. I guess that's a wrap. 
+
+## General Thoughts
+
+The idea, more or less, remained in tact right from the beginning till the end of the project. The issues that I faced did almost make me ditch some of the parts I'd used for the project (even the Potentiometer! I once thought of using 9 buttons for the 9 boxes.). However, I got around most of them except that I couldn't implement the LCD screen as I wanted. All in all, it was a really fun project to work on.
