@@ -57,3 +57,7 @@ The project is done as I just coded the buzzer to make a happy sound when someon
 ## General Thoughts
 
 The idea, more or less, remained in tact right from the beginning till the end of the project. The issues that I faced did almost make me ditch some of the parts I'd used for the project (even the Potentiometer! I once thought of using 9 buttons for the 9 boxes.). However, I got around most of them except that I couldn't implement the LCD screen as I wanted. All in all, it was a really fun project to work on.
+
+## Final Progress Report
+
+The smaller potentiometer and the button I'd used initially had to be changed for comfort and aesthetic reasons. The rest stayed the same and the project got a good reception in the IM Showcase (Using KitKat as bait to lure people in was obviously not a reason ;).
